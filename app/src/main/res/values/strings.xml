@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TweetsMe</string>
+    <string name="login_label">Connect</string>
+    <string name="title_activity_timeline">Timeline</string>
+    <string name="title_activity_tweet_details">Tweet Details</string>
+    <string name="user_screen_name">\@dominiquemodel2</string>
+    <string name="tweet_text">Sak Pase!</string>
+    <string name="created_at_long">7:51 AM - 5 Aug 2017</string>
+    <string name="reweet_count">23</string>
+    <string name="favorites_count">42</string>
+    <string name="user_name">Charles Dominique</string>
+    <string name="compose_tweet_hint">Composer votre tweet</string>
+    <string name="update_status">Tweet</string>
+    <string name="characters_left">140</string>
+    <string name="created_at_relative">10m</string>
+    <string name="tweet_id">-1</string>
+
+</resources>
